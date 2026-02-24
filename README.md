@@ -2,7 +2,7 @@
 A responsive, high-performance portfolio website built to showcase my expertise in AI integration, Cloud Computing, and Software Engineering.
 
 ## 🌐 Live Website
-**View it here:** https://github.com/Anushka1006/My-Portfolio-Website
+**View it here:** file:///C:/Users/anu10/Downloads/Anushka_portfolio/index.html
 
 ## 🛠 Tech Stack
 * **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6)
