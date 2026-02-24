@@ -2,9 +2,10 @@
 A responsive, high-performance portfolio website built to showcase my expertise in AI integration, Cloud Computing, and Software Engineering.
 
 ## 🌐 Live Website
-**View it here:** file:///C:/Users/anu10/Downloads/Anushka_portfolio/index.html
+**View it here:** https://anushka1006.github.io/My-Portfolio-Website/
 
 ## 🛠 Tech Stack
+* **Languages:** Python, C, C++, Java, JavaScript
 * **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6)
 * **Design:** Google Fonts (Poppins), Font Awesome Icons
 * **Deployment:** GitHub Pages
@@ -21,6 +22,7 @@ A responsive, high-performance portfolio website built to showcase my expertise 
 3. **Veda Health:** ML-powered disease prediction system built with Django, MySQL, Python, HTML/CSS.
 4. **Aroma Heaven:** Java based home service booking application using Java and MySQL.
 
-## 📬 Connect with Me
-* **LinkedIn:** https://www.linkedin.com/in/anushka-patil-25740828b/
-* **GitHub:** https://github.com/Anushka1006
+## 🔧 Installation & Setup
+1. Clone the repository: `git clone https://github.com/Anushka1006/My-Portfolio-Website.git`
+2. Open `index.html` in your browser.
+
