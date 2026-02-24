@@ -24,4 +24,3 @@ A responsive, high-performance portfolio website built to showcase my expertise 
 ## 📬 Connect with Me
 * **LinkedIn:** https://www.linkedin.com/in/anushka-patil-25740828b/
 * **GitHub:** https://github.com/Anushka1006
-* **Email:** anushka.10spatil@gmail.com
